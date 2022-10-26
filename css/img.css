@@ -1,0 +1,66 @@
+.google-img{
+    font-family: sans-serif;
+    padding: 20px;
+}
+.google-image img{
+    background-size: 272px 92px;
+    height: 110px;
+    width: 280px;
+    margin: 55px 160px 10px;
+    transition: padding-top 0.4s ease,width 0.4s ease,height 0.4s ease;
+    cursor: pointer;
+    text-align: left;
+
+}
+.logo-subtext{
+    color: #4285f4;
+    font-size: 16px/16px;
+    font-family: sans-serif;
+    left: 377px;
+    position: relative;
+    top: -40px;
+    white-space: nowrap;
+}
+.input-group{
+    margin: 5px auto 10px;
+    border-radius: 30px;
+    max-width: 550px;
+    background-color: transparent;
+    border: 1px solid #e3e3e3 !important;
+    
+}
+.form{
+    border: none !important;
+    border-radius: none !important;
+    background-color: transparent;
+    display: flex;
+    flex: 100%;
+    margin: 0;
+    max-width: 340px;
+    margin-top: 5px;
+    outline: none;
+}
+.input-group-text{
+    background: transparent !important;
+    border: none !important;
+}
+.input-group .fa{
+    padding: 5px;
+    color: #007bff;
+    cursor: pointer;
+}
+.input-group .fas{
+    padding: 5px;
+    color: #9aa0a6;
+    cursor: pointer;
+}
+.bb{
+    height: 44px;
+    width: 44px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    flex: 0 0 auto;
+    padding: 0;
+    outline: none;
+}

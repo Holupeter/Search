@@ -1,0 +1,63 @@
+
+
+.apb{
+    padding: 0px 10px 0px 15px;
+    position: relative;
+    
+    font-size: 27px; 
+    font-weight: 600;
+    vertical-align: middle;
+    line-height: 0;
+    display: inline-block;
+    outline: none;
+}
+.appbar{
+    font-size: 20px;
+    margin: 20px 0px 0px 70px; 
+    font-family: Arial, sans-serif; color: #d93025;
+}
+.form-control{
+    background: #FFFFFF;
+    margin-right: 30px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 30px;
+    padding: 1px 8px;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
+.wds{
+    font: 13px sans-serif;
+    margin-top: 7px;
+    color: #222222;
+}
+.wd{
+    font: 11px arial;
+    color: #222222;
+    margin-top: 6px;
+}
+.wd_s{
+    font: 11px monospace;
+    color: #666666;
+    
+}
+.btn-btn{
+    -moz-border-raduis: 2px;
+    border-radius: 2px;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: right;
+    white-space: nowrap;
+    margin-right: 16px;
+    height: 27px;
+    line-height: 27px;
+    min-width: 54px;
+    outline: 0;
+    padding: 0 8px;
+}
